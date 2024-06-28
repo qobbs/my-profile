@@ -9,7 +9,7 @@
 body {
     background-image: url(https://media.giphy.com/media/xUOxeZR9gmFzbH8FRS/giphy.gif);
     background-repeat: repeat;
-    background-size:cover;
+    background-size:auto;
     font-family: sans-serif;
     /* backdrop-filter: blur(50px);  */
 }
