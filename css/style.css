@@ -1,7 +1,41 @@
-#kitty{
+/* #kitty{
     width: 100px;
     height: 100px;
     position: relative;
     top: 0;
     left: 0;
+} */
+
+body {
+    background-image: url(https://media.giphy.com/media/xUOxeZR9gmFzbH8FRS/giphy.gif);
+    background-repeat: repeat;
+    background-size:cover;
+    font-family: sans-serif;
+    /* backdrop-filter: blur(50px);  */
+}
+h1{
+    color: hotpink;
+    text-decoration: underline;
+    text-decoration-style: wavy;
+    text-align: center;
+}
+h2{
+    color: white;
+    text-decoration: thickness;
+    text-decoration:underline;
+    text-decoration-style:dotted;
+}
+li{
+    color: rgb(255, 255, 255);
+    font-weight: bold;
+    text-align:left;
+}
+p{
+    color: white;
+    text-align:left:
+}
+    
+
+ul {
+    display: inline-block;
 }
